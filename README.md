@@ -5,6 +5,7 @@
 Instructions
 
 1. clone repository into your workspace src or catkin/src
+
 git clone https://github.com/Profsarku/traffic_sign.git
 
 2. cd .. 
